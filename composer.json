@@ -1,0 +1,5 @@
+{
+    "require": {
+        "try-to/swoole_mqtt": "^0.0.5"
+    }
+}
